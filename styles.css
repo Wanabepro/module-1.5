@@ -136,4 +136,8 @@ ul {
   .brands__list {
     grid-template-columns: repeat(4, 1fr);
   }
+
+  .brands__item {
+    width: 240px;
+  }
 }
